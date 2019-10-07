@@ -1,0 +1,5 @@
+I only have a pizza hut nearby plus some local places that are much more expensive.
+
+What I'm programming? An Escape game in Java, think myst but without having to keep a notebook of all the riddles.
+
+EDIT: 50 tries on that pizza hut game and nothing. :(

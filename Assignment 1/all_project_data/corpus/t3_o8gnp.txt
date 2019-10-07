@@ -1,0 +1,3 @@
+Hey all. Redditor [erenion](http://www.reddit.com/user/erenion), [wedgepiett](http://www.reddit.com/user/wedgepiett), and I are developing a follow up to our [Android app](https://market.android.com/details?id=com.boycottsopa.android) that allows users scan item bar codes and see if they're made by a company that supports SOPA. Our follow up app will allow users to join campaigns and will inform them when they scan an item if it offends any of their campaigns (eg child labor, SOPA, etc). We're in the planning stages now, and are just starting implementation now...and well...we're hungry. We're looking at a few long nights of coding, and pizza helps a ton. 
+
+[Hi reddits!](http://i.imgur.com/3L8as.jpg)
